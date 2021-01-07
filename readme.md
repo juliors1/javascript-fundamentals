@@ -61,6 +61,8 @@ sort(): Sorts the elements of an array in place and returns a sorted array.
 23.  Your Answer: arrow functions are a lot prettier and easier to read
 
 
-What is the difference Declarative vs Imperative
+What is the difference between Declarative Programming and Imperative Programming?
+
 Declarative programming is a programming paradigm … that expresses the logic of a computation without describing its control flow.
+
 Imperative programming is a programming paradigm that uses statements that change a program’s state.
